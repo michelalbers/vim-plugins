@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/mial/Projekte/Vagrant/spieglein/spieglein-be/app'
+let g:netrw_dirhist_2='/Users/mial/Projekte/Vagrant/spieglein/spieglein-wm-be/app/controllers'
+let g:netrw_dirhist_3='/Users/mial/Projekte/Vagrant/Curagita/.vagrant'
+let g:netrw_dirhist_4='/Users/mial/Projekte/Vagrant/curagita-vagrant/.git'
+let g:netrw_dirhist_5='/Users/mial/Projekte/Vagrant/curagita-vagrant/.git/modules'
+let g:netrw_dirhist_6='/Users/mial/Projekte/Vagrant/curagita-vagrant/Docker'
+let g:netrw_dirhist_7='/Users/mial/Projekte/Vagrant/Bien-Zenker/Chef'
+let g:netrw_dirhist_8='/Users/mial/Projekte/Vagrant/schwabenhaus-hausbauplus/.git/modules/www/modules'
+let g:netrw_dirhist_9='/Users/mial/Projekte/Vagrant/curagita-chef'
